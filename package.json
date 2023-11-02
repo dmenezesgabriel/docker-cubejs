@@ -1,0 +1,16 @@
+{
+  "name": "docker-cubejs",
+  "version": "1.0.0",
+  "description": "## Resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cubejs-backend/duckdb-driver": "^0.34.13",
+    "@cubejs-backend/server": "^0.34.13"
+  }
+}
